@@ -9,7 +9,7 @@ In this project, you will be tasked with building a plagiarism detector that exa
 ## Below Sagemaker ML Instances are used:
 
 * Notebook   : ml.t2.medium
-* Training   : ml.pc4.xlarge
+* Training   : ml.c4.xlarge
 * Deployment : ml.t2.medium
 
 This project will be broken down into three main notebooks:
